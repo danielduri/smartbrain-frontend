@@ -79,7 +79,7 @@ class App extends Component{
     onButtonSubmit = async () => {
 
         await this.setState({imageURL: this.state.input});
-        fetch('http://localhost:3000/imageURL', {
+        fetch('https://whispering-hamlet-06157.herokuapp.com/imageURL', {
             method: 'post',
             headers: {"Content-type": "application/json"},
             body: JSON.stringify({
@@ -90,7 +90,7 @@ class App extends Component{
             .then(result => {
                 console.log(result);
                 if(result.regions) {
-                    fetch("http://localhost:3000/image", {
+                    fetch("https://whispering-hamlet-06157.herokuapp.com/image", {
                         method: 'put',
                         headers: {"Content-type": "application/json"},
                         body: JSON.stringify({
