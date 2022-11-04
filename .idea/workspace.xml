@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b652e89-4d52-4489-8046-022cce9cb3df" name="Changes" comment="Finished App">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Register/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Register/Register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SignIn/SignIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignIn/SignIn.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
       <workItem from="1667255662344" duration="14759000" />
       <workItem from="1667421083171" duration="72000" />
       <workItem from="1667421272690" duration="4107000" />
-      <workItem from="1667507816776" duration="2875000" />
+      <workItem from="1667507816776" duration="4895000" />
     </task>
     <task id="LOCAL-00001" summary="Finished App">
       <created>1667504773722</created>
